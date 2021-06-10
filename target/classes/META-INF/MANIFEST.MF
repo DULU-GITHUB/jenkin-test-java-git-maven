@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: prac_java_git_maven
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Manoranjan Gharai
+Implementation-Vendor-Id: pr
+Build-Jdk: 1.8.0_291
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/prac_java_git_maven
+Created-By: Maven Integration for Eclipse
+
